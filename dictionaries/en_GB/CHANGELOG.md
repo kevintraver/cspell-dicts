@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.22](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-en-gb-v4.1.21...@cspell/dict-en-gb@4.1.22) (2023-09-22)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/kevintraver/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/kevintraver/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2196](https://github.com/kevintraver/cspell-dicts/issues/2196)) ([e86685c](https://github.com/kevintraver/cspell-dicts/commit/e86685cf64591ee750b778ffe881f36e08f3bb61))
+* Workflow Bot -- Build Dictionaries ([#2287](https://github.com/kevintraver/cspell-dicts/issues/2287)) ([ae6d819](https://github.com/kevintraver/cspell-dicts/commit/ae6d819c824aab9eaa9d405b433582c377a713e1))
+* Workflow Bot -- Build Dictionaries ([#2405](https://github.com/kevintraver/cspell-dicts/issues/2405)) ([9f30dca](https://github.com/kevintraver/cspell-dicts/commit/9f30dca31e17b9fc68ff5815c100b3c062ccdc0a))
+* Workflow Bot -- Build Dictionaries ([#2410](https://github.com/kevintraver/cspell-dicts/issues/2410)) ([f5e7365](https://github.com/kevintraver/cspell-dicts/commit/f5e73652dbfa00d8c160588516520627fa80eb2a))
+* Workflow Bot -- Build Dictionaries ([#2433](https://github.com/kevintraver/cspell-dicts/issues/2433)) ([1ef66fd](https://github.com/kevintraver/cspell-dicts/commit/1ef66fde5d66a73aa76939d8642e9754e2995d19))
+* Workflow Bot -- Build Dictionaries ([#2457](https://github.com/kevintraver/cspell-dicts/issues/2457)) ([e6290ec](https://github.com/kevintraver/cspell-dicts/commit/e6290ecc15796f1dcdc0711da61de572c775d1ac))
+
 ## [4.1.21](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.20...@cspell/dict-en-gb@4.1.21) (2023-09-01)
 
 

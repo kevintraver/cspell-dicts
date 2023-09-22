@@ -3,6 +3,64 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.4.0](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-software-terms-v3.3.0...@cspell/dict-software-terms@3.4.0) (2023-09-22)
+
+
+### Features
+
+* Add computing-acronyms dictionary ([#2326](https://github.com/kevintraver/cspell-dicts/issues/2326)) ([9757b4c](https://github.com/kevintraver/cspell-dicts/commit/9757b4cb9764ade57d33f2e945bd4e8e96296642))
+* Enable dictionary `web-services` by default ([#2540](https://github.com/kevintraver/cspell-dicts/issues/2540)) ([8f86427](https://github.com/kevintraver/cspell-dicts/commit/8f86427641737d7f3befa1121509a83642d0b2ad))
+
+
+### Updates and Bug Fixes
+
+* Add "ariakit" to the software tools dict ([#2212](https://github.com/kevintraver/cspell-dicts/issues/2212)) ([c48958d](https://github.com/kevintraver/cspell-dicts/commit/c48958d2313c782b3737abe3e9b48d24a3a06b24))
+* Add "Backoff" to the software terms dict ([#2426](https://github.com/kevintraver/cspell-dicts/issues/2426)) ([657ace3](https://github.com/kevintraver/cspell-dicts/commit/657ace30ef238d97de17f70094fabe657b7e7222))
+* Add "Gitleaks" to software tools dict ([#2505](https://github.com/kevintraver/cspell-dicts/issues/2505)) ([3df723d](https://github.com/kevintraver/cspell-dicts/commit/3df723d65ead4130802cfa930ec7631fd89603aa))
+* Add "regexes" to software-terms dictionary ([#2515](https://github.com/kevintraver/cspell-dicts/issues/2515)) ([ad2b5bf](https://github.com/kevintraver/cspell-dicts/commit/ad2b5bf06710dc6e4e85b016d3245b2b0dfa37d0))
+* add DeepScale ICLR to software-terms add interpretability explainability to data-science-terms ([#2259](https://github.com/kevintraver/cspell-dicts/issues/2259)) ([93a8529](https://github.com/kevintraver/cspell-dicts/commit/93a85297f698a35ab6a52df89834295fea6bd56f))
+* add MSSQL to software tools ([#2523](https://github.com/kevintraver/cspell-dicts/issues/2523)) ([cb16454](https://github.com/kevintraver/cspell-dicts/commit/cb1645485db5fa1b4374c58b76f40630c470014f))
+* Add OpenAPI to software terms ([#2517](https://github.com/kevintraver/cspell-dicts/issues/2517)) ([367e877](https://github.com/kevintraver/cspell-dicts/commit/367e877630a86f619bc8db3b08af512496568a8b))
+* add SATA Roadmap to software-terms.txt ([#2281](https://github.com/kevintraver/cspell-dicts/issues/2281)) ([8f2b80b](https://github.com/kevintraver/cspell-dicts/commit/8f2b80bb788103206f9444e94ce8188c92c2350f))
+* add seaborn Ethr cygwin psping sockperf to software-tools.txt ([#2232](https://github.com/kevintraver/cspell-dicts/issues/2232)) ([b135dd8](https://github.com/kevintraver/cspell-dicts/commit/b135dd89611792e3ae153be69bbcdf42f714a7fb))
+* Add signin and signout to software terms ([#2519](https://github.com/kevintraver/cspell-dicts/issues/2519)) ([9e20f2f](https://github.com/kevintraver/cspell-dicts/commit/9e20f2f0ee8b2b753bb48937c8304d1ae85e52fe))
+* add some linux display manager to software-tools.txt ([#2479](https://github.com/kevintraver/cspell-dicts/issues/2479)) ([4243241](https://github.com/kevintraver/cspell-dicts/commit/424324124ecdf7a08cb99fee6f50bb68b1e541f8))
+* add some missing words ([#2525](https://github.com/kevintraver/cspell-dicts/issues/2525)) ([d6c2665](https://github.com/kevintraver/cspell-dicts/commit/d6c26652e2d4200868f7ddf817a057f8e3625463))
+* add some ubuntu distributions to network-os.txt ([#2477](https://github.com/kevintraver/cspell-dicts/issues/2477)) ([37aa8ce](https://github.com/kevintraver/cspell-dicts/commit/37aa8ce83226652c722c0779b5fe0f659111cfb8))
+* add sqlserver to software terms ([#2520](https://github.com/kevintraver/cspell-dicts/issues/2520)) ([6362e78](https://github.com/kevintraver/cspell-dicts/commit/6362e781e03f14103ffb78ade261bb8fb463cb84))
+* add TPDS JPDC etc. to computing-acronyms  add Supercomputing  software-terms ([#2324](https://github.com/kevintraver/cspell-dicts/issues/2324)) ([11917ce](https://github.com/kevintraver/cspell-dicts/commit/11917ce5ac94f2fce67eec2380e075a7e9e6c081))
+* add whitespaces (plural) to dictionaries ([#2552](https://github.com/kevintraver/cspell-dicts/issues/2552)) ([09e990a](https://github.com/kevintraver/cspell-dicts/commit/09e990a724a7bad7db72cd43e9e374290b59b886))
+* add word to network-protocols.txt ([#2229](https://github.com/kevintraver/cspell-dicts/issues/2229)) ([9b42fd7](https://github.com/kevintraver/cspell-dicts/commit/9b42fd737672405ba96e729a9d99f6a07460e60c))
+* add words to common_packages and network-protocols ([#2255](https://github.com/kevintraver/cspell-dicts/issues/2255)) ([67a61f5](https://github.com/kevintraver/cspell-dicts/commit/67a61f5f2d937d993d07fe7b3c73db096ecd649b))
+* add words to companies, network-protocol.txt, and software-tools.txt ([#2190](https://github.com/kevintraver/cspell-dicts/issues/2190)) ([7a180ee](https://github.com/kevintraver/cspell-dicts/commit/7a180ee703f69f259179a6abcc6d671917374f07))
+* add words to data_science network-protocols software-teams ([#2197](https://github.com/kevintraver/cspell-dicts/issues/2197)) ([abdc1f8](https://github.com/kevintraver/cspell-dicts/commit/abdc1f81dff938f86045f04f07855b263b1cc610))
+* Add words to various dicts ([#2381](https://github.com/kevintraver/cspell-dicts/issues/2381)) ([fc610d4](https://github.com/kevintraver/cspell-dicts/commit/fc610d48d9d10ce69be8f1b2a10180e58017d89e))
+* Adding various words from issues. ([#2273](https://github.com/kevintraver/cspell-dicts/issues/2273)) ([de5f809](https://github.com/kevintraver/cspell-dicts/commit/de5f8098d1dad66ac7d90da205f53aaad531024f))
+* Make sure `backoff` is in `src` not just `dict` ([e4e6411](https://github.com/kevintraver/cspell-dicts/commit/e4e641177924852c67f93aa58cc581cd5128b939))
+* work around issues with splitting lines. ([#2481](https://github.com/kevintraver/cspell-dicts/issues/2481)) ([816743b](https://github.com/kevintraver/cspell-dicts/commit/816743bbf391cd6c55bd8a1562354c41ebbce90f))
+* Workflow Bot -- Build Dictionaries ([#2194](https://github.com/kevintraver/cspell-dicts/issues/2194)) ([2ac3f06](https://github.com/kevintraver/cspell-dicts/commit/2ac3f060ca4bc4c52d53a6bf9515dcad7698a5fd))
+* Workflow Bot -- Build Dictionaries ([#2202](https://github.com/kevintraver/cspell-dicts/issues/2202)) ([3742752](https://github.com/kevintraver/cspell-dicts/commit/374275252553fa3b5fa4155ad2843692086ad9cf))
+* Workflow Bot -- Build Dictionaries ([#2205](https://github.com/kevintraver/cspell-dicts/issues/2205)) ([5d13cee](https://github.com/kevintraver/cspell-dicts/commit/5d13ceef981f29dc5fe8289af9c92e6858e6f623))
+* Workflow Bot -- Build Dictionaries ([#2230](https://github.com/kevintraver/cspell-dicts/issues/2230)) ([cd126a8](https://github.com/kevintraver/cspell-dicts/commit/cd126a843e9e538bef279bb1bfc23c72d0ebddb3))
+* Workflow Bot -- Build Dictionaries ([#2235](https://github.com/kevintraver/cspell-dicts/issues/2235)) ([a39003c](https://github.com/kevintraver/cspell-dicts/commit/a39003c1ceb964a0bd36ab232c496089f5755e82))
+* Workflow Bot -- Build Dictionaries ([#2254](https://github.com/kevintraver/cspell-dicts/issues/2254)) ([b60895a](https://github.com/kevintraver/cspell-dicts/commit/b60895a987db581536eb1a2df6c7fc7c9d4c9e07))
+* Workflow Bot -- Build Dictionaries ([#2262](https://github.com/kevintraver/cspell-dicts/issues/2262)) ([7661f77](https://github.com/kevintraver/cspell-dicts/commit/7661f77f505097ccefb21658751fadde886a20d2))
+* Workflow Bot -- Build Dictionaries ([#2268](https://github.com/kevintraver/cspell-dicts/issues/2268)) ([c386486](https://github.com/kevintraver/cspell-dicts/commit/c386486b6756a95febb2c8468b542a331e4da047))
+* Workflow Bot -- Build Dictionaries ([#2284](https://github.com/kevintraver/cspell-dicts/issues/2284)) ([fbfd46b](https://github.com/kevintraver/cspell-dicts/commit/fbfd46bb025dc7e2da26e2b44834abd269367940))
+* Workflow Bot -- Build Dictionaries ([#2286](https://github.com/kevintraver/cspell-dicts/issues/2286)) ([86c1920](https://github.com/kevintraver/cspell-dicts/commit/86c1920da481290a927d2ec10f689d4399fe1096))
+* Workflow Bot -- Build Dictionaries ([#2328](https://github.com/kevintraver/cspell-dicts/issues/2328)) ([661320a](https://github.com/kevintraver/cspell-dicts/commit/661320af4737f92fce4a1d73aaec177cb051a3f0))
+* Workflow Bot -- Build Dictionaries ([#2329](https://github.com/kevintraver/cspell-dicts/issues/2329)) ([8309cdb](https://github.com/kevintraver/cspell-dicts/commit/8309cdbcef61b92b20274dd45782c327d8cd9904))
+* Workflow Bot -- Build Dictionaries ([#2383](https://github.com/kevintraver/cspell-dicts/issues/2383)) ([cb4110d](https://github.com/kevintraver/cspell-dicts/commit/cb4110d8d56bbda80c92a4d9d1831ff613fd54f8))
+* Workflow Bot -- Build Dictionaries ([#2429](https://github.com/kevintraver/cspell-dicts/issues/2429)) ([73674ea](https://github.com/kevintraver/cspell-dicts/commit/73674ea0b04a1d5dfe50b027911d3d6f39cc70f7))
+* Workflow Bot -- Build Dictionaries ([#2478](https://github.com/kevintraver/cspell-dicts/issues/2478)) ([9aa1eec](https://github.com/kevintraver/cspell-dicts/commit/9aa1eec53a8ccb79b7a06fce717bb557e99315e6))
+* Workflow Bot -- Build Dictionaries ([#2480](https://github.com/kevintraver/cspell-dicts/issues/2480)) ([be8004c](https://github.com/kevintraver/cspell-dicts/commit/be8004c342919bcc949174885413bf87286e62cb))
+* Workflow Bot -- Build Dictionaries ([#2483](https://github.com/kevintraver/cspell-dicts/issues/2483)) ([83a2db6](https://github.com/kevintraver/cspell-dicts/commit/83a2db659dd2adbb61c10d4552663f68a21fb9f4))
+* Workflow Bot -- Build Dictionaries ([#2507](https://github.com/kevintraver/cspell-dicts/issues/2507)) ([e1b38b4](https://github.com/kevintraver/cspell-dicts/commit/e1b38b486964490967d9787be45811b4e2c279ac))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/kevintraver/cspell-dicts/issues/2511)) ([af0713c](https://github.com/kevintraver/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+* Workflow Bot -- Build Dictionaries ([#2527](https://github.com/kevintraver/cspell-dicts/issues/2527)) ([051753e](https://github.com/kevintraver/cspell-dicts/commit/051753eeeba9c0e8771d53a2530f417941a5c333))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/kevintraver/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/kevintraver/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+* Workflow Bot -- Build Dictionaries ([#2542](https://github.com/kevintraver/cspell-dicts/issues/2542)) ([856a4dc](https://github.com/kevintraver/cspell-dicts/commit/856a4dce315ef44833191c108624cc016118c7b6))
+
 ## [3.3.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-software-terms@3.2.6...@cspell/dict-software-terms@3.3.0) (2023-09-22)
 
 

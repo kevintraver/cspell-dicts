@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.6](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-shell-v1.0.5...@cspell/dict-shell@1.0.6) (2023-09-27)
+
+
+### Updates and Bug Fixes
+
+* add bindkey zsh shell words ([#2551](https://github.com/kevintraver/cspell-dicts/issues/2551)) ([f0b4956](https://github.com/kevintraver/cspell-dicts/commit/f0b4956ac1ae7b8c0556b951565107cb99dce9fc))
+* add neovim to shell words ([#2533](https://github.com/kevintraver/cspell-dicts/issues/2533)) ([21f492f](https://github.com/kevintraver/cspell-dicts/commit/21f492ff041fc0c4e1c1d2f84d1a7e9be6409400))
+* update shell-zsh-words ([#2531](https://github.com/kevintraver/cspell-dicts/issues/2531)) ([bdb2138](https://github.com/kevintraver/cspell-dicts/commit/bdb21389ad8b7ae56d3f70fc6296b8958400628c))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/kevintraver/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/kevintraver/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+* Workflow Bot -- Build Dictionaries ([#2538](https://github.com/kevintraver/cspell-dicts/issues/2538)) ([5688b42](https://github.com/kevintraver/cspell-dicts/commit/5688b42dcc451aba7ff257ab5180c15f4e37abe2))
+* Workflow Bot -- Build Dictionaries ([#2553](https://github.com/kevintraver/cspell-dicts/issues/2553)) ([46ce681](https://github.com/kevintraver/cspell-dicts/commit/46ce6812d8770d6017b72c48faf4f91ca2092896))
+
 ## [1.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-shell@1.0.4...@cspell/dict-shell@1.0.5) (2023-09-22)
 
 

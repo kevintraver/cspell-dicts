@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.10](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-npm-v5.0.9...@cspell/dict-npm@5.0.10) (2023-09-27)
+
+
+### Updates and Bug Fixes
+
+* add  linkcss to npm.txt ([#2290](https://github.com/kevintraver/cspell-dicts/issues/2290)) ([c08202f](https://github.com/kevintraver/cspell-dicts/commit/c08202f1112664b5f2e9d457eae9ae553ebb4985))
+* add heroicons to npm ([#2564](https://github.com/kevintraver/cspell-dicts/issues/2564)) ([080dcf5](https://github.com/kevintraver/cspell-dicts/commit/080dcf563e9f156de2d5aa4297c26ca98f5cb6bc))
+* add some missing words ([#2525](https://github.com/kevintraver/cspell-dicts/issues/2525)) ([d6c2665](https://github.com/kevintraver/cspell-dicts/commit/d6c26652e2d4200868f7ddf817a057f8e3625463))
+* add superjson to npm ([#2561](https://github.com/kevintraver/cspell-dicts/issues/2561)) ([d7c046a](https://github.com/kevintraver/cspell-dicts/commit/d7c046abfd1f6496ecfb4c66c4eac0566a792f47))
+* add trpc to software terms ([#2522](https://github.com/kevintraver/cspell-dicts/issues/2522)) ([9587ebc](https://github.com/kevintraver/cspell-dicts/commit/9587ebcdf8fc68d9986e3efe7d8b041950888867))
+* Add words to various dicts ([#2381](https://github.com/kevintraver/cspell-dicts/issues/2381)) ([fc610d4](https://github.com/kevintraver/cspell-dicts/commit/fc610d48d9d10ce69be8f1b2a10180e58017d89e))
+* Update description of the `npm` dictionary ([#2291](https://github.com/kevintraver/cspell-dicts/issues/2291)) ([52e8b6f](https://github.com/kevintraver/cspell-dicts/commit/52e8b6f918033b16a4e924545f22365225ad4162))
+* Update npm description in extension. ([#2299](https://github.com/kevintraver/cspell-dicts/issues/2299)) ([4f2546b](https://github.com/kevintraver/cspell-dicts/commit/4f2546b1e3907eaa1bdb15a4e268b0062cd0c5d0))
+* Workflow Bot -- Build Dictionaries ([#2296](https://github.com/kevintraver/cspell-dicts/issues/2296)) ([3bff84b](https://github.com/kevintraver/cspell-dicts/commit/3bff84b43fe11a3fae3ce5b8250bdbb9980df4fa))
+* Workflow Bot -- Build Dictionaries ([#2383](https://github.com/kevintraver/cspell-dicts/issues/2383)) ([cb4110d](https://github.com/kevintraver/cspell-dicts/commit/cb4110d8d56bbda80c92a4d9d1831ff613fd54f8))
+* Workflow Bot -- Build Dictionaries ([#2529](https://github.com/kevintraver/cspell-dicts/issues/2529)) ([4f2e9a4](https://github.com/kevintraver/cspell-dicts/commit/4f2e9a49395b32362aadfa29c12e60e3ea8d4f68))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/kevintraver/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/kevintraver/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+* Workflow Bot -- Build Dictionaries ([#2538](https://github.com/kevintraver/cspell-dicts/issues/2538)) ([5688b42](https://github.com/kevintraver/cspell-dicts/commit/5688b42dcc451aba7ff257ab5180c15f4e37abe2))
+
 ## [5.0.9](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@5.0.8...@cspell/dict-npm@5.0.9) (2023-09-21)
 
 

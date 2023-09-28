@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.6](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-cpp-v5.0.5...@cspell/dict-cpp@5.0.6) (2023-09-28)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/kevintraver/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/kevintraver/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2483](https://github.com/kevintraver/cspell-dicts/issues/2483)) ([83a2db6](https://github.com/kevintraver/cspell-dicts/commit/83a2db659dd2adbb61c10d4552663f68a21fb9f4))
+
 ## [5.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.0.4...@cspell/dict-cpp@5.0.5) (2023-09-09)
 
 

@@ -22,6 +22,22 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.11](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-css-v4.0.10...@cspell/dict-css@4.0.11) (2023-09-28)
+
+
+### Updates and Bug Fixes
+
+* Add `srgb` to css ([#2424](https://github.com/kevintraver/cspell-dicts/issues/2424)) ([f116770](https://github.com/kevintraver/cspell-dicts/commit/f116770909e65b7091f2335fe2d1d25ab194138e))
+* add bluehaze and tundora to css dictionary ([#2559](https://github.com/kevintraver/cspell-dicts/issues/2559)) ([a8131fa](https://github.com/kevintraver/cspell-dicts/commit/a8131faac7061c343b7dd4908d8dd571b9990794))
+* add easings to css dictionary ([#2521](https://github.com/kevintraver/cspell-dicts/issues/2521)) ([554c5aa](https://github.com/kevintraver/cspell-dicts/commit/554c5aacab37d51dab05e974f884b977cd67cbb8))
+* add viewports (plural) to css dictionary ([#2524](https://github.com/kevintraver/cspell-dicts/issues/2524)) ([e765a89](https://github.com/kevintraver/cspell-dicts/commit/e765a89a20645497d0ace65e6a1bb97c044da2a7))
+* add whitespaces (plural) to dictionaries ([#2552](https://github.com/kevintraver/cspell-dicts/issues/2552)) ([09e990a](https://github.com/kevintraver/cspell-dicts/commit/09e990a724a7bad7db72cd43e9e374290b59b886))
+* Workflow Bot -- Build Dictionaries ([#2425](https://github.com/kevintraver/cspell-dicts/issues/2425)) ([93acacb](https://github.com/kevintraver/cspell-dicts/commit/93acacb11628732f6a90260c6820cb9a54853153))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/kevintraver/cspell-dicts/issues/2511)) ([af0713c](https://github.com/kevintraver/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+* Workflow Bot -- Build Dictionaries ([#2527](https://github.com/kevintraver/cspell-dicts/issues/2527)) ([051753e](https://github.com/kevintraver/cspell-dicts/commit/051753eeeba9c0e8771d53a2530f417941a5c333))
+* Workflow Bot -- Build Dictionaries ([#2553](https://github.com/kevintraver/cspell-dicts/issues/2553)) ([46ce681](https://github.com/kevintraver/cspell-dicts/commit/46ce6812d8770d6017b72c48faf4f91ca2092896))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/kevintraver/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/kevintraver/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+
 ## [4.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.9...@cspell/dict-css@4.0.10) (2023-09-27)
 
 

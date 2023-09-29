@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.3.9](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-en_us-v4.3.8...@cspell/dict-en_us@4.3.9) (2023-09-29)
+
+
+### Updates and Bug Fixes
+
+* add 'rebrand' and 'rebranding' to en-US ([#2261](https://github.com/kevintraver/cspell-dicts/issues/2261)) ([720ea3b](https://github.com/kevintraver/cspell-dicts/commit/720ea3b201f02d1ff087d90cc1e934fd700e3926))
+* Remove `indispensible` ([#2536](https://github.com/kevintraver/cspell-dicts/issues/2536)) ([8a0bbba](https://github.com/kevintraver/cspell-dicts/commit/8a0bbba9d74912c71dc2f1dc16625fb29e4d30b3))
+* Update dictionary ([774971b](https://github.com/kevintraver/cspell-dicts/commit/774971bcc3436c6906efd38785397f98145e3b06))
+* Update dictionary build script and re-build ([#2334](https://github.com/kevintraver/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/kevintraver/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2264](https://github.com/kevintraver/cspell-dicts/issues/2264)) ([625e84c](https://github.com/kevintraver/cspell-dicts/commit/625e84c464ff879e69d0b7d4eb6c189ffed2a2d1))
+* Workflow Bot -- Build Dictionaries ([#2433](https://github.com/kevintraver/cspell-dicts/issues/2433)) ([1ef66fd](https://github.com/kevintraver/cspell-dicts/commit/1ef66fde5d66a73aa76939d8642e9754e2995d19))
+* Workflow Bot -- Build Dictionaries ([#2537](https://github.com/kevintraver/cspell-dicts/issues/2537)) ([1c8c080](https://github.com/kevintraver/cspell-dicts/commit/1c8c0806bb50d3af5918f9526dbeaaaff5632fee))
+
 ## [4.3.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.7...@cspell/dict-en_us@4.3.8) (2023-09-21)
 
 

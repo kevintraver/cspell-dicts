@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.12](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-en-gb-mit-v2.1.11...@cspell/dict-en-gb-mit@2.1.12) (2023-09-29)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/kevintraver/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/kevintraver/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2322](https://github.com/kevintraver/cspell-dicts/issues/2322)) ([5bbe69f](https://github.com/kevintraver/cspell-dicts/commit/5bbe69f38a3c64f7ff5c0dafa0a164cf702e3343))
+* Workflow Bot -- Build Dictionaries ([#2433](https://github.com/kevintraver/cspell-dicts/issues/2433)) ([1ef66fd](https://github.com/kevintraver/cspell-dicts/commit/1ef66fde5d66a73aa76939d8642e9754e2995d19))
+
 ## [2.1.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb-mit@2.1.10...@cspell/dict-en-gb-mit@2.1.11) (2023-08-31)
 
 

@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.0](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-ru_ru-v2.1.0...@cspell/dict-ru_ru@2.2.0) (2023-09-30)
+
+
+### Features
+
+* Rebuild dictionaries ([#2345](https://github.com/kevintraver/cspell-dicts/issues/2345)) ([a42db50](https://github.com/kevintraver/cspell-dicts/commit/a42db50300924afe6a44049f4d26a86c5a09457a))
+
 ## [2.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ru_ru@2.0.5...@cspell/dict-ru_ru@2.1.0) (2023-07-19)
 
 

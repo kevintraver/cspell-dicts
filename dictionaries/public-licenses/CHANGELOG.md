@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.5](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-public-licenses-v2.0.4...@cspell/dict-public-licenses@2.0.5) (2023-09-30)
+
+
+### Updates and Bug Fixes
+
+* Update dictionary build script and re-build ([#2334](https://github.com/kevintraver/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/kevintraver/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2511](https://github.com/kevintraver/cspell-dicts/issues/2511)) ([af0713c](https://github.com/kevintraver/cspell-dicts/commit/af0713caa9f147e182c9025a950c1a4906d10ac6))
+
 ## [2.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-public-licenses@2.0.3...@cspell/dict-public-licenses@2.0.4) (2023-09-21)
 
 

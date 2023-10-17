@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-en-au-v1.0.4...@cspell/dict-en-au@1.0.5) (2023-10-17)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/kevintraver/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/kevintraver/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Workflow Bot -- Build Dictionaries ([#2433](https://github.com/kevintraver/cspell-dicts/issues/2433)) ([1ef66fd](https://github.com/kevintraver/cspell-dicts/commit/1ef66fde5d66a73aa76939d8642e9754e2995d19))
+
 ## [1.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-au@1.0.3...@cspell/dict-en-au@1.0.4) (2023-10-11)
 
 

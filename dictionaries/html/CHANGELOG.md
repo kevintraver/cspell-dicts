@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.6](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-html-v4.0.5...@cspell/dict-html@4.0.6) (2024-06-05)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/kevintraver/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/kevintraver/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+
 ## [4.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-html@4.0.4...@cspell/dict-html@4.0.5) (2023-09-27)
 
 

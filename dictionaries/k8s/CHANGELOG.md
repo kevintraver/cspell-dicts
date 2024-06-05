@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.6](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-k8s-v1.0.5...@cspell/dict-k8s@1.0.6) (2024-06-05)
+
+
+### Updates and Bug Fixes
+
+* add "kube" to k8s dictionary ([#3162](https://github.com/kevintraver/cspell-dicts/issues/3162)) ([e3c592a](https://github.com/kevintraver/cspell-dicts/commit/e3c592a459089d0df1d8fdb1f1fc1f017e4b2fd4))
+* Add terms from Kubernetes repo ([#2655](https://github.com/kevintraver/cspell-dicts/issues/2655)) ([e4d8e94](https://github.com/kevintraver/cspell-dicts/commit/e4d8e9434efb4610adebee086b9ba78379b05bc0))
+* update k8s dict ([#3202](https://github.com/kevintraver/cspell-dicts/issues/3202)) ([bc7ee9b](https://github.com/kevintraver/cspell-dicts/commit/bc7ee9b4f30d44bd4f561e00ef6eb5be63062bf4))
+* Update k8s dict (add VPA) ([#3230](https://github.com/kevintraver/cspell-dicts/issues/3230)) ([108d2fd](https://github.com/kevintraver/cspell-dicts/commit/108d2fdabb2955d881b561463f4c26fbd3f06224))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/kevintraver/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/kevintraver/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#3163](https://github.com/kevintraver/cspell-dicts/issues/3163)) ([8e4a609](https://github.com/kevintraver/cspell-dicts/commit/8e4a609fe11b56d1624fdd9cb4969ed5f37d6d18))
+* Workflow Bot -- Build Dictionaries ([#3216](https://github.com/kevintraver/cspell-dicts/issues/3216)) ([1f48312](https://github.com/kevintraver/cspell-dicts/commit/1f483125280d927cfb94faca357f5b18baa5c29c))
+* Workflow Bot -- Build Dictionaries ([#3233](https://github.com/kevintraver/cspell-dicts/issues/3233)) ([77ce4fd](https://github.com/kevintraver/cspell-dicts/commit/77ce4fd2d8eb7b379b701c63614a5cfb565c03ec))
+
 ## [1.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-k8s@1.0.4...@cspell/dict-k8s@1.0.5) (2024-05-28)
 
 

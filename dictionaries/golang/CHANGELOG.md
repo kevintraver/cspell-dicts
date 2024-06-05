@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.10](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-golang-v6.0.9...@cspell/dict-golang@6.0.10) (2024-06-05)
+
+
+### Updates and Bug Fixes
+
+* add "GOGC" to golang dictionary  ([#3153](https://github.com/kevintraver/cspell-dicts/issues/3153)) ([f7ca301](https://github.com/kevintraver/cspell-dicts/commit/f7ca301c0cd15880601bb33183c5be01f3d1804a))
+* add back a few terms ([#3187](https://github.com/kevintraver/cspell-dicts/issues/3187)) ([74340db](https://github.com/kevintraver/cspell-dicts/commit/74340dbf3844307772cf1d58f23f6671380b7345))
+* update golang dictionary ([#3179](https://github.com/kevintraver/cspell-dicts/issues/3179)) ([5b9887a](https://github.com/kevintraver/cspell-dicts/commit/5b9887a309984a88d03e36a14d7e60fdc3aea7a6))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/kevintraver/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/kevintraver/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/kevintraver/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/kevintraver/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/kevintraver/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/kevintraver/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#3155](https://github.com/kevintraver/cspell-dicts/issues/3155)) ([dcddd8a](https://github.com/kevintraver/cspell-dicts/commit/dcddd8a1f7922c6b7666dca664c3c1f15f2e187f))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/kevintraver/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/kevintraver/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/kevintraver/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/kevintraver/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+* Workflow Bot -- Build Dictionaries ([#3185](https://github.com/kevintraver/cspell-dicts/issues/3185)) ([4db7ac2](https://github.com/kevintraver/cspell-dicts/commit/4db7ac294d819233196226cf692e6438fc59462c))
+
 ## [6.0.9](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.8...@cspell/dict-golang@6.0.9) (2024-05-22)
 
 

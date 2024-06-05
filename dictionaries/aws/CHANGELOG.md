@@ -22,6 +22,16 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.3](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-aws-v4.0.2...@cspell/dict-aws@4.0.3) (2024-06-05)
+
+
+### Updates and Bug Fixes
+
+* [aws] Add "buildspec" term ([#2822](https://github.com/kevintraver/cspell-dicts/issues/2822)) ([775cbc9](https://github.com/kevintraver/cspell-dicts/commit/775cbc998253f83283cb544eaccc2f5fc57882b7))
+* update aws dict ([#3197](https://github.com/kevintraver/cspell-dicts/issues/3197)) ([3142aa5](https://github.com/kevintraver/cspell-dicts/commit/3142aa59b89e0d708363fbc68ad7a0a91053da0e))
+* Workflow Bot -- Build Dictionaries ([#2829](https://github.com/kevintraver/cspell-dicts/issues/2829)) ([b4ecdae](https://github.com/kevintraver/cspell-dicts/commit/b4ecdaeca74e12036f812c714411f61918fab5c7))
+* Workflow Bot -- Build Dictionaries ([#3205](https://github.com/kevintraver/cspell-dicts/issues/3205)) ([8a56dba](https://github.com/kevintraver/cspell-dicts/commit/8a56dba2acc59b9b1345d7657cd7aefcb4932824))
+
 ## [4.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-aws@4.0.1...@cspell/dict-aws@4.0.2) (2024-05-23)
 
 

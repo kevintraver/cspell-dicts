@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.13](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-css-v4.0.12...@cspell/dict-css@4.0.13) (2024-06-05)
+
+
+### Updates and Bug Fixes
+
+* add font feature words to css ([#2586](https://github.com/kevintraver/cspell-dicts/issues/2586)) ([5c1df6d](https://github.com/kevintraver/cspell-dicts/commit/5c1df6d3c0b88a0e1080dd6224a40b0cfa76baab))
+* add glyphicon to css ([#2600](https://github.com/kevintraver/cspell-dicts/issues/2600)) ([eefdb08](https://github.com/kevintraver/cspell-dicts/commit/eefdb08ad23d777a1918a67d522c5d7ad4ef588b))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/kevintraver/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/kevintraver/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+* Workflow Bot -- Build Dictionaries ([#2585](https://github.com/kevintraver/cspell-dicts/issues/2585)) ([6eb7658](https://github.com/kevintraver/cspell-dicts/commit/6eb765831220892eda6a751c86d1465963a1d953))
+* Workflow Bot -- Build Dictionaries ([#2603](https://github.com/kevintraver/cspell-dicts/issues/2603)) ([72a9dd6](https://github.com/kevintraver/cspell-dicts/commit/72a9dd6798dc6d5f45c0d28f73b9c7b12967acc1))
+
 ## [4.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.11...@cspell/dict-css@4.0.12) (2023-10-05)
 
 

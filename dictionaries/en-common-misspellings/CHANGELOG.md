@@ -1,5 +1,21 @@
 # Change Log
 
+## [3.0.0](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-en-common-misspellings-v2.0.1...@cspell/dict-en-common-misspellings@3.0.0) (2024-06-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update en-common-misspellings license to CC BY-SA 4.0 ([#2716](https://github.com/kevintraver/cspell-dicts/issues/2716))
+
+### Features
+
+* Update en-common-misspellings license to CC BY-SA 4.0 ([#2716](https://github.com/kevintraver/cspell-dicts/issues/2716)) ([7a68a11](https://github.com/kevintraver/cspell-dicts/commit/7a68a11f07864660d109caa8af4d55dc18738a58))
+
+
+### Updates and Bug Fixes
+
+* update en-common-misspellings dict ([#3182](https://github.com/kevintraver/cspell-dicts/issues/3182)) ([d232591](https://github.com/kevintraver/cspell-dicts/commit/d23259196f44cebe9f2039e94fe10fc38972afb4))
+
 ## [2.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.0.0...@cspell/dict-en-common-misspellings@2.0.1) (2024-05-22)
 
 

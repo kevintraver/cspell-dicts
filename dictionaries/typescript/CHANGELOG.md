@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.6](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-typescript-v3.1.5...@cspell/dict-typescript@3.1.6) (2024-06-05)
+
+
+### Updates and Bug Fixes
+
+* add `iife` to TypeScript dictionary ([#3124](https://github.com/kevintraver/cspell-dicts/issues/3124)) ([ce98df3](https://github.com/kevintraver/cspell-dicts/commit/ce98df375754f2be85c1dbfea512e5dfabb7089f))
+* add dataavailable and ondataavailable to typescript.txt ([#3101](https://github.com/kevintraver/cspell-dicts/issues/3101)) ([5aa014b](https://github.com/kevintraver/cspell-dicts/commit/5aa014babb7f3d96ffa4402175b44132108521b3))
+* Enable dictionaries for MDX ([#3191](https://github.com/kevintraver/cspell-dicts/issues/3191)) ([34c7e57](https://github.com/kevintraver/cspell-dicts/commit/34c7e57f1be4cdc341c96c0fe98e2e9e9ed5ab92))
+* Workflow Bot -- Build Dictionaries ([#3103](https://github.com/kevintraver/cspell-dicts/issues/3103)) ([02c05e3](https://github.com/kevintraver/cspell-dicts/commit/02c05e392198f3ac0b1cd9132d37b0c147405632))
+* Workflow Bot -- Build Dictionaries ([#3126](https://github.com/kevintraver/cspell-dicts/issues/3126)) ([8870263](https://github.com/kevintraver/cspell-dicts/commit/8870263e94f9076c7cd250d303e6d171dc7a878d))
+
 ## [3.1.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.1.4...@cspell/dict-typescript@3.1.5) (2024-05-22)
 
 

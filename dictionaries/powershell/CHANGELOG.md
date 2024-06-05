@@ -27,6 +27,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.5](https://github.com/kevintraver/cspell-dicts/compare/@cspell/dict-powershell-v5.0.4...@cspell/dict-powershell@5.0.5) (2024-06-05)
+
+
+### Updates and Bug Fixes
+
+* Added missing comparison operators ([#2802](https://github.com/kevintraver/cspell-dicts/issues/2802)) ([2887c19](https://github.com/kevintraver/cspell-dicts/commit/2887c19a5f8be4bcfdc8d8c54e06ca106a1612ed))
+* Workflow Bot -- Build Dictionaries ([#2796](https://github.com/kevintraver/cspell-dicts/issues/2796)) ([515711d](https://github.com/kevintraver/cspell-dicts/commit/515711d7dc8e9ae39f1e4e7aebe84af5cc19b4de))
+* Workflow Bot -- Build Dictionaries ([#3185](https://github.com/kevintraver/cspell-dicts/issues/3185)) ([4db7ac2](https://github.com/kevintraver/cspell-dicts/commit/4db7ac294d819233196226cf692e6438fc59462c))
+
 ## [5.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-powershell@5.0.3...@cspell/dict-powershell@5.0.4) (2024-05-22)
 
 
